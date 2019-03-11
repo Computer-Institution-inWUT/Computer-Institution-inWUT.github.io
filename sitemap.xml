@@ -3,8 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.wutcom.club/posts/first/</loc>
+    <lastmod>2019-03-12T01:03:41+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.wutcom.club/about-hugo/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wutcom.club/posts/</loc>
+    <lastmod>2019-03-12T01:03:41+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -13,8 +24,14 @@
   </url>
   
   <url>
+    <loc>https://www.wutcom.club/tags/untagged/</loc>
+    <lastmod>2019-03-12T01:03:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.wutcom.club/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-12T01:03:41+08:00</lastmod>
     <priority>0</priority>
   </url>
   
