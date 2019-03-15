@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>First</title>
+      <title>First and test</title>
       <link>https://www.wutcom.club/posts/first/</link>
       <pubDate>Tue, 12 Mar 2019 01:03:41 +0800</pubDate>
       
       <guid>https://www.wutcom.club/posts/first/</guid>
-      <description>test 测试</description>
+      <description>test 测试 if this post is displayed, test successflu.</description>
     </item>
     
   </channel>
