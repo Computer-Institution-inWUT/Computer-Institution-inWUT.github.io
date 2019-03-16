@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.wutcom.club/posts/howto/</loc>
+    <lastmod>2019-03-16T01:03:41+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.wutcom.club/posts/first/</loc>
     <lastmod>2019-03-12T01:03:41+08:00</lastmod>
   </url>
@@ -14,7 +19,7 @@
   
   <url>
     <loc>https://www.wutcom.club/posts/</loc>
-    <lastmod>2019-03-12T01:03:41+08:00</lastmod>
+    <lastmod>2019-03-16T01:03:41+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -24,15 +29,25 @@
   </url>
   
   <url>
-    <loc>https://www.wutcom.club/tags/untagged/</loc>
+    <loc>https://www.wutcom.club/tags/test/</loc>
     <lastmod>2019-03-12T01:03:41+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.wutcom.club/</loc>
-    <lastmod>2019-03-12T01:03:41+08:00</lastmod>
+    <loc>https://www.wutcom.club/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2019-03-16T01:03:41+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wutcom.club/</loc>
+    <lastmod>2019-03-16T01:03:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wutcom.club/activity/</loc>
   </url>
   
 </urlset>

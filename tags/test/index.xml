@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on 武汉理工大学计算机协会</title>
+    <link>https://www.wutcom.club/tags/test/</link>
+    <description>Recent content in Test on 武汉理工大学计算机协会</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-hans</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 12 Mar 2019 01:03:41 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.wutcom.club/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>测试文章</title>
+      <link>https://www.wutcom.club/posts/first/</link>
+      <pubDate>Tue, 12 Mar 2019 01:03:41 +0800</pubDate>
+      
+      <guid>https://www.wutcom.club/posts/first/</guid>
+      <description>本文章包含 featuredImg 二级标题 长文字测试长文字测试长文字测试长文字测试长文字测试长文字测试长文字测试长文字测试长文字测试长文字测试长文字测试长文字测试</description>
+    </item>
+    
+  </channel>
+</rss>

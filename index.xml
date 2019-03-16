@@ -5,20 +5,29 @@
     <link>https://www.wutcom.club/</link>
     <description>Recent content on 武汉理工大学计算机协会</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>zh-hans</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 12 Mar 2019 01:03:41 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2019 01:03:41 +0800</lastBuildDate>
     
 	<atom:link href="https://www.wutcom.club/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First and test</title>
+      <title>如何投稿</title>
+      <link>https://www.wutcom.club/posts/howto/</link>
+      <pubDate>Sat, 16 Mar 2019 01:03:41 +0800</pubDate>
+      
+      <guid>https://www.wutcom.club/posts/howto/</guid>
+      <description>最简单的方法： 按本文章的 md 源文件的格式，编写自己的文章（如果对 markdown 不太熟悉的话，可以参考第一篇测试文章的格式（看源文件）），然后将 md 文件发给管</description>
+    </item>
+    
+    <item>
+      <title>测试文章</title>
       <link>https://www.wutcom.club/posts/first/</link>
       <pubDate>Tue, 12 Mar 2019 01:03:41 +0800</pubDate>
       
       <guid>https://www.wutcom.club/posts/first/</guid>
-      <description>test 测试 if this post is displayed, test successful.</description>
+      <description>本文章包含 featuredImg 二级标题 长文字测试长文字测试长文字测试长文字测试长文字测试长文字测试长文字测试长文字测试长文字测试长文字测试长文字测试长文字测试</description>
     </item>
     
     <item>
@@ -28,6 +37,15 @@
       
       <guid>https://www.wutcom.club/about-hugo/</guid>
       <description>说明：本主页使用Hugo框架，搭建于计算机协会Github Page上。 座右铭：技术宅拯救世界！ 社团简介 成立于1995年。 现规模达到279人，</description>
+    </item>
+    
+    <item>
+      <title>武汉理工大学计算机协会</title>
+      <link>https://www.wutcom.club/activity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.wutcom.club/activity/</guid>
+      <description>下次活动预告 春游 （逃</description>
     </item>
     
   </channel>
