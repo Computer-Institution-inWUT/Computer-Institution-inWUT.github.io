@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>文章归档 | 武汉理工大学计算机协会</title>
+<title>实用链接 | 武汉理工大学计算机协会</title>
 <meta name="description" content="技术宅拯救世界">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -13,6 +13,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://www.wutcom.club//styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -105,30 +111,34 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          
+          <div class="post-detail">
+            <h2 class="post-title">实用链接</h2>
+            <div class="post-date">2019-06-22</div>
+            
+            <div class="post-content">
+              <h2 id="常用搜索引擎">常用搜索引擎：</h2>
+<p>学会使用搜索引擎，是进入计协第一件要学会的事情。由于这是一篇链接文章，所以就只列出常用的搜索引擎~</p>
+<ol start="0">
+<li><s><a href="www.google.com">谷歌google</a></s>一个不存在（<code>404</code>）的网站，却有着世界第一搜索引擎的美誉，不可思议！</li>
+<li><a href="www.baidu.com">百度</a>，国内首屈一指，全球最大的中文搜索引擎，常用于检查计算机是否与英特网连通：<code>ping www.baidu.com</code>。</li>
+<li><a href="www.bing.com">必应bing</a>——微软家的搜索引擎，分为国内版与国际版，实用体验良好，常用于下载bing壁纸。</li>
+<li><a href="https://duckduckgo.com/">duckduckgo</a>是一个很特殊的网络搜索引擎，他和Google、Bing 这些不一样，他不会追踪、搜寻用户的信息。</li>
+<li><a href="www.WolframAlpha.com">WolframAlpha</a>是一个计算知识引擎，能够马上理解问题并给出答案，例如：进行各种算术，还有数据分析，物理，艺术等等各个行业的查询。</li>
+</ol>
 
-          <h2 class="archives-title">文章归档</h2>
-          <div class="archives-container">
+            </div>
             
-              <h2 class="year" data-aos="fade-in" data-aos-delay="500">2018</h2>
+            
+
+            
               
-                
-                  <article class="post">
-                    <a href="https://www.wutcom.club//post/hello-gridea">
-                      <h2 class="post-title">
-                        本站由 Gridea 生成 | test Markdown
-                      </h2>
-                    </a>
-                  </article>
-                
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
               
             
+
           </div>
-
-          <div class="pagination-container">
-  
-  
-</div>
 
         </div>
       </div>
@@ -150,6 +160,29 @@ var app = new Vue({
 })
 
 </script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'af0784a987289e337a30',
+        clientSecret: 'd71b2397a302f11c0100f0ef1bc2d06fbdfafbaf',
+        repo: 'computer-institution-inwut.github.io',
+        owner: 'Computer-Institution-inWUT',
+        admin: ['Computer-Institution-inWUT'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
