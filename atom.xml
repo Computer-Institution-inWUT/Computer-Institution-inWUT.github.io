@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wutcom.club/</id>
-    <title>Gridea</title>
-    <updated>2019-06-21T15:34:51.425Z</updated>
+    <title>武汉理工大学计算机协会</title>
+    <updated>2019-06-21T16:09:11.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.wutcom.club/"/>
     <link rel="self" href="https://www.wutcom.club//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>技术宅拯救世界</subtitle>
     <logo>https://www.wutcom.club//images/avatar.png</logo>
     <icon>https://www.wutcom.club//favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 武汉理工大学计算机协会</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://www.wutcom.club//post/hello-gridea</id>
